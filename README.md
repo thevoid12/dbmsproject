@@ -1,2 +1,2 @@
 # dbmsproject
-our final dbms project
+very very simple camera shopping website with database integration
